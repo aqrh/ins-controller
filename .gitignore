@@ -1,0 +1,10 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Config or secrets
+config.py
+
+# OS files
+.DS_Store
+Thumbs.db
